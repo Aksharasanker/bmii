@@ -1,0 +1,27 @@
+
+body{
+  padding: 0px;
+  margin: 0px;
+  background-image: url('https://img.freepik.com/premium-photo/detox-cleanse-drink-concept-green-vegetable-smoothie-ingredients-natural-organic-healthy-juice-bottle-weight-loss-diet-fasting-day-cucumber-apple-lime-spinach-mix-isolated-green_434033-561.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.main{
+  
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+}
+.sub{
+  background-color: beige;
+  width: 450px;
+  padding:20px;
+  border-radius:10px;
+}
+
+#msg{
+  background-color: rgb(186, 225, 186);
+}
